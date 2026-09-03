@@ -11,7 +11,6 @@ The dashboard explores candidate attributes and hiring outcomes through visualiz
 <p>The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the
 Coffee Shop.</p>
 <h3> Key KPI's addressed </h3>
-<p>
   1. How do sales vary by day of the week and hour of the day?   
   2. Are there any peak times for sales activity?   
   3. What is the total sales revenue for each month?   
@@ -19,7 +18,6 @@ Coffee Shop.</p>
   5. What is the average/order price per person?  
   6. Which products are best selling interms of quality & revenue?   
   7. How do sales vary by product category & type? 
-</p>
 <h1> Coffee Sales Interactive Dashboard Preview</h1>
 <a href="https://github.com/Zero4247/Excel-Dashboards/blob/main/COFFEE%20saless/Coffee_sales_dashboard.png">
 <img src="Coffee_sales_dashboard.png"></a>
