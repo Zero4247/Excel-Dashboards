@@ -4,7 +4,7 @@ The dashboard explores candidate attributes and hiring outcomes through visualiz
 <h3> Tools Used </h3>
 1. Microsoft Excel 
 2. Pivot Tables & Charts 
-3. Power Query 
+3. Power Query & ETL 
 4. Slicers
 5. Excel Formulas
 <h3> Purpose </h3>
