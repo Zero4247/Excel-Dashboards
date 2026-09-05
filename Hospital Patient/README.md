@@ -33,7 +33,8 @@ Emergency departments frequently face bottlenecking, unpredictable patient volum
 The workbook contains structured reporting tabs and dedicated trend analysis sheets:
 
 1. **`Hospital Emergency Room Data`**: Cleaned base dataset tracking patient IDs, demographics, referral departments, admission status, wait times, and satisfaction scores.
-   <a href="https://github.com/Zero4247/Excel-Dashboards/blob/main/Hospital%20Patient/Data%20after%20cleaning.png"></a>
+   <a href="https://github.com/Zero4247/Excel-Dashboards/blob/main/Hospital%20Patient/Data%20after%20cleaning.png">
+   <img src="Data after cleaning.png"></a>
 3. **`DASHBOARD`**: Executive view equipped with dynamic KPI cards, year/month slicers, admission status bars, and department breakdown charts.
 4. **`Daily Emergency Room Attendance`**: Detailed timeline analysis tracking daily visit fluctuations throughout the year.
 5. **`AVERAGE WAIT TIME CHART`**: Dedicated trend sheet isolating daily wait times to highlight peak operational congestion.
