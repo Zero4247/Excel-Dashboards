@@ -36,13 +36,14 @@ The workbook contains structured reporting tabs and dedicated trend analysis she
    <a href="https://github.com/Zero4247/Excel-Dashboards/blob/main/Hospital%20Patient/Data%20after%20cleaning.png">
    <img src="Data after cleaning.png"></a>
 3. **`DASHBOARD`**: Executive view equipped with dynamic KPI cards, year/month slicers, admission status bars, and department breakdown charts.
+   
    <a href="https://github.com/Zero4247/Excel-Dashboards/blob/main/Hospital%20Patient/Hospital%20Dashboard.png">
    <img src="Hospital Dashboard.png"></a>
 5. **`Daily Emergency Room Attendance`**: Detailed timeline analysis tracking daily visit fluctuations throughout the year.
-    <a href="https://github.com/Zero4247/Excel-Dashboards/blob/main/Hospital%20Patient/Hospital%20Dashboard.png">
+    <a href="https://github.com/Zero4247/Excel-Dashboards/blob/main/Hospital%20Patient/KPI(Daily%20attendance).png">
    <img src="KPI(Daily attendance).png"></a>
 7. **`AVERAGE WAIT TIME CHART`**: Dedicated trend sheet isolating daily wait times to highlight peak operational congestion.
-    <a href="https://github.com/Zero4247/Excel-Dashboards/blob/main/Hospital%20Patient/Hospital%20Dashboard.png">
+    <a href="https://github.com/Zero4247/Excel-Dashboards/blob/main/Hospital%20Patient/KPI(Daily%20attendance).png">
    <img src="KPI(Avg. wait time).png"></a>
 9. **`AVERAGE PATIENT SATISFACTION SCORE`**: Detailed time-series tracking of patient feedback ratings.
      <a href="https://github.com/Zero4247/Excel-Dashboards/blob/main/Hospital%20Patient/KPI(Avg.%20Patient%20satisfaction%20score).png">
