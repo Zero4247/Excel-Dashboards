@@ -36,9 +36,17 @@ The workbook contains structured reporting tabs and dedicated trend analysis she
    <a href="https://github.com/Zero4247/Excel-Dashboards/blob/main/Hospital%20Patient/Data%20after%20cleaning.png">
    <img src="Data after cleaning.png"></a>
 3. **`DASHBOARD`**: Executive view equipped with dynamic KPI cards, year/month slicers, admission status bars, and department breakdown charts.
-4. **`Daily Emergency Room Attendance`**: Detailed timeline analysis tracking daily visit fluctuations throughout the year.
-5. **`AVERAGE WAIT TIME CHART`**: Dedicated trend sheet isolating daily wait times to highlight peak operational congestion.
-6. **`AVERAGE PATIENT SATISFACTION SCORE`**: Detailed time-series tracking of patient feedback ratings.
+   <a href="https://github.com/Zero4247/Excel-Dashboards/blob/main/Hospital%20Patient/Hospital%20Dashboard.png">
+   <img src="Hospital Dashboard.png"></a>
+5. **`Daily Emergency Room Attendance`**: Detailed timeline analysis tracking daily visit fluctuations throughout the year.
+    <a href="https://github.com/Zero4247/Excel-Dashboards/blob/main/Hospital%20Patient/Hospital%20Dashboard.png">
+   <img src="KPI(Daily attendance).png"></a>
+7. **`AVERAGE WAIT TIME CHART`**: Dedicated trend sheet isolating daily wait times to highlight peak operational congestion.
+    <a href="https://github.com/Zero4247/Excel-Dashboards/blob/main/Hospital%20Patient/Hospital%20Dashboard.png">
+   <img src="KPI(Avg. wait time).png"></a>
+9. **`AVERAGE PATIENT SATISFACTION SCORE`**: Detailed time-series tracking of patient feedback ratings.
+     <a href="https://github.com/Zero4247/Excel-Dashboards/blob/main/Hospital%20Patient/Hospital%20Dashboard.png">
+   <img src="KPI(Avg. Patitent satisfaction score).png"></a>
 
 ---
 
@@ -49,11 +57,4 @@ The workbook contains structured reporting tabs and dedicated trend analysis she
 * **Visualization:** Custom Combo Charts, Donut Charts, Horizontal Bar Charts, Area/Line Trendlines
 * **Interactivity:** Dynamic Slicers (Year/Month filtering) and cross-sheet navigation links
 
----
 
-## 🚀 How to Use
-
-1. Clone or download this repository.
-2. Open `Hospital Dashboard(FINAL VERSION).xlsx` in Microsoft Excel 2016 or newer.
-3. Enable macros/content if prompted to support smooth navigation buttons.
-4. Use the slicers in the top-right corner of the **`DASHBOARD`** tab to filter analysis by year (2023/2024) or specific calendar months.
