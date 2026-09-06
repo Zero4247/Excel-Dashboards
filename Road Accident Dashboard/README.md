@@ -14,5 +14,5 @@ The `ROAD ACCCIDENT DASHBOARD 2021-22.xlsx` file includes a dedicated **DASHBOAR
 <a href="https://github.com/Zero4247/Excel-Dashboards/blob/main/Road%20Accident%20Dashboard/Road%20Accident%20Analysis%20Dashboard.png">
 <img src="Road Accident Analysis Dashboard.png"></a>
 <h2> Road Accident Analysis KPI's Preview</h2>
-<a href="https://github.com/Zero4247/Excel-Dashboards/blob/main/Road%20Accident%20Dashboard/Road%20Accident%20Analysis%20Dashboard.png">
+<a href="https://github.com/Zero4247/Excel-Dashboards/blob/main/Road%20Accident%20Dashboard/Road%20Accident%20Analysis%20KPI's.png">
 <img src="Road Accident Analysis KPI's.png"></a>
