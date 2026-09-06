@@ -10,9 +10,6 @@ This project is an interactive Excel dashboard built to analyze UK road accident
 
 **Dashboard Features**
 The `ROAD ACCCIDENT DASHBOARD 2021-22.xlsx` file includes a dedicated **DASHBOARD** sheet powered by connected PivotTables. Key performance indicators update dynamically based on user-selected time periods or district areas via interactive slicers.
-
-**How to Run**
-1. Clone or download the repository.
-2. Open `ROAD ACCCIDENT DASHBOARD 2021-22.xlsx` in Microsoft Excel.
-3. Navigate to the **DASHBOARD** tab.
-4. Ensure macros and content editing are enabled if prompted so the interactive slicers function correctly.
+<h2> Road Accident Interactive Dashboard Preview</h2>
+<a href="https://github.com/Zero4247/Excel-Dashboards/blob/main/COFFEE%20saless/Coffee_sales_dashboard.png">
+<img src="Coffee_sales_dashboard.png"></a>
